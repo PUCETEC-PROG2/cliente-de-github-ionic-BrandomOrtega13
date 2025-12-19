@@ -3,9 +3,9 @@
 
 ## Información del Estudiante
 
-- **Nombre:** [Tu nombre completo aquí]
-- **Carrera:** [Tu carrera]
-- **Fecha de inicio:** [Fecha]
+- **Nombre:** Brandom Ariel Ortega Bermudez
+- **Carrera:** Desarrollo de Software
+- **Fecha de inicio:** [2/12/2025]
 
 ---
 
